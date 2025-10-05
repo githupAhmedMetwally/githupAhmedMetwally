@@ -21,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmed-metwally-b33565380" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Metwally-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-metwally-b33565380/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Metwally-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100052199373816" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Metwally-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </br>
 </br>
